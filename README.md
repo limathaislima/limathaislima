@@ -1,4 +1,20 @@
-## Bem-vindo(a) ao meu Perfil! 😁
+## Thaís Lima
+  <div>
+   <a href="https://instagram.com/limathaislima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href = "mailto:thaislima.photos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/thaislimaphotos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
+ <br>
+
+Olá!<br>
+Sou fotógrafa, filmaker e audiodescritora há 10 anos e estou iniciando meus estudos em HTML, CSS e JavaScript para me tornar uma Desenvolvedora Frontend.
+<br>
+Ainda estou dando meus primeiros passos na área de tecnologia mas estou super empolgada.
+<br>
+Criei esse perfil para me aproximar da comunidade de tecnologia e aprender mais através de trocas com profissionais da área. :D
+<br>
+
+💬 Inglês Fluente / Espanhol básico / Francês básico
 
  <div>
    <a href="https://github.com/limathaislima">
@@ -14,13 +30,10 @@
  
  <br>
  
-  ### Pode entrar em contato comigo através das redes abaixo:
+ 
  
 <div> 
   
-  <a href="https://instagram.com/limathaislima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:thaislima.photos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thaislimaphotos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/limathaislima/limathaislima/blob/output/github-contribution-grid-snake.svg)
 
