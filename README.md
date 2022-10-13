@@ -7,14 +7,15 @@
  <br>
 
 Olá!<br>
-Sou fotógrafa, filmaker e audiodescritora há 10 anos e estou iniciando meus estudos em HTML, CSS e JavaScript para me tornar uma Desenvolvedora Frontend.
+Estou iniciando meus estudos em HTML, CSS e JavaScript para me tornar uma Desenvolvedora Frontend.
 <br>
 Ainda estou dando meus primeiros passos na área de tecnologia mas estou super empolgada.
 <br>
 Criei esse perfil para me aproximar da comunidade de tecnologia e aprender mais através de trocas com profissionais da área. :D
 <br>
-
+Habilidades:
 💬 Inglês Fluente / Espanhol básico / Francês básico
+🖥 Final Cut / Adobe Photoshop / Adobe Lightroom
 
  <div>
    <a href="https://github.com/limathaislima">
